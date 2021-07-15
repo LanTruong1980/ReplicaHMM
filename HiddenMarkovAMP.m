@@ -1,5 +1,4 @@
-% This program is written for the manuscript "Linear Models with Hidden
-% Markov Sources via Replica Method" which was submitted to ISIT 2021.
+% This program is written for the manuscript https://arxiv.org/abs/2009.13370, Fig. 13 and 14 (AMP algorithm for Hidden Markov Prior).
 
 clear
 close all
