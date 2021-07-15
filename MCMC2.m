@@ -1,6 +1,6 @@
 % This function estimate free energy by using the replica method and the
-% classical Metropolis–Hastings algorithm for the linear model with Markov prior 
-% continuous-space Markov (Harris) source where S=1 in Section VI-A (Fig 10).
+% classical Metropolisâ€“Hastings algorithm for the linear model with Markov prior 
+% (continuous-space Markov (Harris) source) where S=1 in Section VI-A (Fig 10).
 %  Arix https://arxiv.org/abs/2009.13370.
 
 clear
